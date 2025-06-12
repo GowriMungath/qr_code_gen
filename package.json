@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr_code_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GowriMungath/qr_code_gen.git"
+  },
+  "author": "Gowri Mungath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GowriMungath/qr_code_gen/issues"
+  },
+  "homepage": "https://github.com/GowriMungath/qr_code_gen#readme"
+}
