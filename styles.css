@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center; /* horizontal center */
+    align-items: center;     /* vertical center */
+    height: 100vh;           /* full viewport height */
+    margin: 0;
+    flex-direction: column;  /* to keep heading and form in vertical stack */
+    text-align: center;
+    background-color: aliceblue;
+  }
+  
+  
+  
+  
